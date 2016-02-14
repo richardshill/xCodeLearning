@@ -13,6 +13,14 @@
 		41CCB7981C70FBDC004F64FF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7971C70FBDC004F64FF /* Images.xcassets */; };
 		41CCB79B1C70FBDC004F64FF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7991C70FBDC004F64FF /* LaunchScreen.xib */; };
 		41CCB7A71C70FBDD004F64FF /* workFlow_prototypeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CCB7A61C70FBDD004F64FF /* workFlow_prototypeTests.swift */; };
+		41CCB7B81C70FC37004F64FF /* Home 1024 x 768@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B01C70FC37004F64FF /* Home 1024 x 768@2x.png */; };
+		41CCB7B91C70FC37004F64FF /* Intput New - Jobflow - Architecture 1024 x 768@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B11C70FC37004F64FF /* Intput New - Jobflow - Architecture 1024 x 768@2x.png */; };
+		41CCB7BA1C70FC37004F64FF /* Intput New - Jobflow - Supplier - Architecture 1024 x 768 Copy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B21C70FC37004F64FF /* Intput New - Jobflow - Supplier - Architecture 1024 x 768 Copy@2x.png */; };
+		41CCB7BB1C70FC37004F64FF /* Intputs - Architecture 1024 x 768@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B31C70FC37004F64FF /* Intputs - Architecture 1024 x 768@2x.png */; };
+		41CCB7BC1C70FC37004F64FF /* Launch 1024 x 768@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B41C70FC37004F64FF /* Launch 1024 x 768@2x.png */; };
+		41CCB7BD1C70FC37004F64FF /* Outputs - Admin - 1024 x 768 Copy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B51C70FC37004F64FF /* Outputs - Admin - 1024 x 768 Copy@2x.png */; };
+		41CCB7BE1C70FC37004F64FF /* Outputs - Graphical - 1024 x 768@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B61C70FC37004F64FF /* Outputs - Graphical - 1024 x 768@2x.png */; };
+		41CCB7BF1C70FC37004F64FF /* Outputs -allUsers - 1024 x 768@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CCB7B71C70FC37004F64FF /* Outputs -allUsers - 1024 x 768@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +44,14 @@
 		41CCB7A01C70FBDD004F64FF /* workFlow_prototypeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = workFlow_prototypeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41CCB7A51C70FBDD004F64FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41CCB7A61C70FBDD004F64FF /* workFlow_prototypeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workFlow_prototypeTests.swift; sourceTree = "<group>"; };
+		41CCB7B01C70FC37004F64FF /* Home 1024 x 768@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Home 1024 x 768@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Home 1024 x 768@2x.png"; sourceTree = "<group>"; };
+		41CCB7B11C70FC37004F64FF /* Intput New - Jobflow - Architecture 1024 x 768@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Intput New - Jobflow - Architecture 1024 x 768@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Intput New - Jobflow - Architecture 1024 x 768@2x.png"; sourceTree = "<group>"; };
+		41CCB7B21C70FC37004F64FF /* Intput New - Jobflow - Supplier - Architecture 1024 x 768 Copy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Intput New - Jobflow - Supplier - Architecture 1024 x 768 Copy@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Intput New - Jobflow - Supplier - Architecture 1024 x 768 Copy@2x.png"; sourceTree = "<group>"; };
+		41CCB7B31C70FC37004F64FF /* Intputs - Architecture 1024 x 768@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Intputs - Architecture 1024 x 768@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Intputs - Architecture 1024 x 768@2x.png"; sourceTree = "<group>"; };
+		41CCB7B41C70FC37004F64FF /* Launch 1024 x 768@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Launch 1024 x 768@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Launch 1024 x 768@2x.png"; sourceTree = "<group>"; };
+		41CCB7B51C70FC37004F64FF /* Outputs - Admin - 1024 x 768 Copy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Outputs - Admin - 1024 x 768 Copy@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Outputs - Admin - 1024 x 768 Copy@2x.png"; sourceTree = "<group>"; };
+		41CCB7B61C70FC37004F64FF /* Outputs - Graphical - 1024 x 768@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Outputs - Graphical - 1024 x 768@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Outputs - Graphical - 1024 x 768@2x.png"; sourceTree = "<group>"; };
+		41CCB7B71C70FC37004F64FF /* Outputs -allUsers - 1024 x 768@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Outputs -allUsers - 1024 x 768@2x.png"; path = "../../../sketchAssets/flatScreens/x2/Outputs -allUsers - 1024 x 768@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				41CCB7901C70FBDC004F64FF /* AppDelegate.swift */,
+				41CCB7C01C70FC40004F64FF /* PageFlats */,
 				41CCB7921C70FBDC004F64FF /* ViewController.swift */,
 				41CCB7941C70FBDC004F64FF /* Main.storyboard */,
 				41CCB7971C70FBDC004F64FF /* Images.xcassets */,
@@ -110,6 +127,21 @@
 				41CCB7A51C70FBDD004F64FF /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		41CCB7C01C70FC40004F64FF /* PageFlats */ = {
+			isa = PBXGroup;
+			children = (
+				41CCB7B01C70FC37004F64FF /* Home 1024 x 768@2x.png */,
+				41CCB7B11C70FC37004F64FF /* Intput New - Jobflow - Architecture 1024 x 768@2x.png */,
+				41CCB7B21C70FC37004F64FF /* Intput New - Jobflow - Supplier - Architecture 1024 x 768 Copy@2x.png */,
+				41CCB7B31C70FC37004F64FF /* Intputs - Architecture 1024 x 768@2x.png */,
+				41CCB7B41C70FC37004F64FF /* Launch 1024 x 768@2x.png */,
+				41CCB7B51C70FC37004F64FF /* Outputs - Admin - 1024 x 768 Copy@2x.png */,
+				41CCB7B61C70FC37004F64FF /* Outputs - Graphical - 1024 x 768@2x.png */,
+				41CCB7B71C70FC37004F64FF /* Outputs -allUsers - 1024 x 768@2x.png */,
+			);
+			name = PageFlats;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,8 +224,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41CCB7B81C70FC37004F64FF /* Home 1024 x 768@2x.png in Resources */,
+				41CCB7B91C70FC37004F64FF /* Intput New - Jobflow - Architecture 1024 x 768@2x.png in Resources */,
+				41CCB7BB1C70FC37004F64FF /* Intputs - Architecture 1024 x 768@2x.png in Resources */,
+				41CCB7BE1C70FC37004F64FF /* Outputs - Graphical - 1024 x 768@2x.png in Resources */,
+				41CCB7BF1C70FC37004F64FF /* Outputs -allUsers - 1024 x 768@2x.png in Resources */,
 				41CCB7961C70FBDC004F64FF /* Main.storyboard in Resources */,
+				41CCB7BD1C70FC37004F64FF /* Outputs - Admin - 1024 x 768 Copy@2x.png in Resources */,
+				41CCB7BC1C70FC37004F64FF /* Launch 1024 x 768@2x.png in Resources */,
 				41CCB79B1C70FBDC004F64FF /* LaunchScreen.xib in Resources */,
+				41CCB7BA1C70FC37004F64FF /* Intput New - Jobflow - Supplier - Architecture 1024 x 768 Copy@2x.png in Resources */,
 				41CCB7981C70FBDC004F64FF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -6,6 +6,8 @@
 //  Copyright (c) 2016 richardshill. All rights reserved.
 //
 
+// Test comment for commit.
+
 import UIKit
 
 @UIApplicationMain
