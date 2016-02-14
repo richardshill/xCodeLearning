@@ -8,6 +8,8 @@
 
 // Test comment for commit.
 
+// And another
+
 import UIKit
 
 @UIApplicationMain
